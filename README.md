@@ -19,6 +19,10 @@ Anonfiles and a few other dead services such as `zz.fo` & `bayfiles`.
 
 - Limiting the requirements of what is needed compared to other open source hosting services. Example: "You need Node-js and this specific version of yarn with this version of..." The list goes on. The goal is to put an end to that logic once and for all...
 
+## TODOS
+- [ ] Tutorials on how to setup and start hosting.
+- [ ] requirements.txt
+ 
 
 ## Pull Requests
 
