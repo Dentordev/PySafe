@@ -1,0 +1,31 @@
+# upload path
+path: "uploads"
+
+# Uploading limits
+limit: 1GB
+
+expires: 2 weeks
+
+port: 6667
+
+
+# TODO: API Endpoints
+# Enables /api/... 
+# endpoints for bots and clients to use. Disabled by default
+# Programmers & Bots should use the api endpoint to 
+# prevent ddosing.
+# api: false
+
+
+# TODO: Urls and proxies
+# If a user wanted to upload a file from a url we will need a way 
+# To safely do it without leaking our own IP Address.
+# sites such as linkvertise/grabify should be avoided 
+# or otherwise downright blacklisted.
+
+
+# Enables hosting over a tor-hidden-service (Everything will be made for you)
+# to replace with vanity link go to the .hidden-service folder after the first 
+# run and change the keys and hostname
+tor: false
+
